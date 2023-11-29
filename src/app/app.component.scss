@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+}
+
+.bx-main {
+    background-color: lightgray;
+   
+}
+form {
+    padding: 20px;
+    font-size: larger;
+    
+}
+input {
+    height: 30px;
+    width: 200px;
+    font-size: large;
+}
+
+input:hover {
+    background-color: aliceblue;
+}
+
+textarea:hover {
+    background-color: aliceblue;
+}
+button {
+    height: 25px;
+    width: 100px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: lightblue;
+}
